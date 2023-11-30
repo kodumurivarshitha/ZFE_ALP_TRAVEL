@@ -4,7 +4,7 @@ specVersion: "3.1"
 metadata:
   name: com.ibm.zfealptravel
 type: application
-server:
+server:git branch -M main
   customMiddleware:
     - name: fiori-tools-proxy
       afterMiddleware: compression
